@@ -4,5 +4,5 @@
 
 'Celestial Bodies Database' Project for [freeCodeCamp's Relational Database Certification.](https://www.freecodecamp.org/learn/relational-database/)
 
-Instructions at: **tasks.md** <br>
-Solution at: **universe.sql**
+Instructions at: [**tasks.md**](tasks.md) <br>
+Solution at: [**universe.sql**](universe.sql)
